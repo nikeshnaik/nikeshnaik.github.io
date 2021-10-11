@@ -8,3 +8,5 @@ its Nikesh,
 - 📫 How to reach me: nikeshnaik.dev@gmail.com 
 - Other Links: https://nikeshnaik.dev || https://www.linkedin.com/in/nikeshinfinity/
 
+[![Nikesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikeshnaik)](https://github.com/anuraghazra/github-readme-stats)
+
