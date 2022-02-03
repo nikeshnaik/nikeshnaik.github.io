@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 its Nikesh,
-- 🧑‍~~💻 I'm currently buidling Modern Data Stack Side Project, to test waters into data engineering. Checkout here: https://github.com/nikeshnaik/modern_data_stack
+- Oddly fixing some bugs in some repos.
 - 👷‍♂️ Recently built TinyURL similar service - Converts Long URL to short and redirects whenever clicked. https://app.cloned-link.com || www.cloned-link.com
 - 🌱 I’m currently understanding MLOps + Some Frontend skills for enjoyment.
 - 👯 I’m looking to collaborate in any Startup Product or Side Project.
