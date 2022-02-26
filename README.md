@@ -9,7 +9,7 @@ its Nikesh,
 - Blogs: https://nikeshnaik.dev 
 - Linkedin: https://www.linkedin.com/in/nikeshinfinity/
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikeshnaik&hide=javascript,html&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikeshnaik&hide=haskell&theme=tokyonight)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nikeshnaik)](https://git.io/streak-stats)
 
