@@ -9,10 +9,12 @@ its Nikesh,
 - Blogs: https://nikeshnaik.dev 
 - Linkedin: https://www.linkedin.com/in/nikeshinfinity/
 
-[![Nikesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikeshnaik&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikeshnaik&hide=javascript,html&theme=tokyonight)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nikeshnaik)](https://git.io/streak-stats)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikeshnaik&theme=tokyonight)
+[![Nikesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikeshnaik&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
