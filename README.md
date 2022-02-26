@@ -11,3 +11,5 @@ its Nikesh,
 
 [![Nikesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikeshnaik&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
 
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nikeshnaik)](https://git.io/streak-stats)
