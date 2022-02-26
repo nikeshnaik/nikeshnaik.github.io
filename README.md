@@ -7,7 +7,7 @@ its Nikesh,
 - 👯 I’m looking to collaborate in any Startup Product or Side Project.
 - 📫 How to reach me: nikeshnaik.dev@gmail.com 
 - Blogs: https://nikeshnaik.dev 
-- Linkedin: https://www.linkedin.com/in/nikeshinfinity/
+- Linkedin: https://www.linkedin.com/in/nikesh-naik/
 
 - ![Profile Visits](https://komarev.com/ghpvc/?username=nikeshnaik)
 
