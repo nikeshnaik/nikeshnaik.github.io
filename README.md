@@ -2,9 +2,9 @@
 
 its Nikesh,
 
-- Software Engineer lost in Startup World.
-- 🌱 I’m currently pivoting my career from Data Science to Software Engineering in General + Some Frontend skills for enjoyment.
-- 👯 I’m looking to collaborate in any Startup Product or Side Project.
+- Software Engineer 
+- 🌱 Currently pivoting my career from Data Science to Software Engineering in General + Some Frontend skills for enjoyment.
+- 👯 Looking to collaborate in any Startup Product or Side Project.
 - 📫 How to reach me: nikeshnaik.dev@gmail.com 
 - Blogs: https://nikeshnaik.dev 
 - Linkedin: https://www.linkedin.com/in/nikesh-naik/
