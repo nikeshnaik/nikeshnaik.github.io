@@ -3,7 +3,7 @@
 its Nikesh,
 
 - Software Engineer 
-- 🌱 Currently pivoting my career from Data Science to Software Engineering in General + Some Frontend skills for enjoyment.
+- 🌱 Currently playing around Frontend Engineering, Kubernetes and AWS.
 - 👯 Looking to collaborate in any Startup Product or Side Project.
 - 📫 How to reach me: nikeshnaik.dev@gmail.com 
 - Blogs: https://nikeshnaik.dev 
