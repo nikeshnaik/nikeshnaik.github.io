@@ -2,7 +2,7 @@
 
 its Nikesh,
 
-- Software Engineer | Generalist in Data Science.
+- I am Software Engineer and Generalist in Data Science, previously worked in 2 Series A startups.
 - 🌱 Currently playing around with Frontend Engineering, Kubernetes and AWS.
 - 💼 Looking to collaborate in any Startup Product or Side Project.
 - 📫 How to reach me: nikeshnaik.dev@gmail.com 
