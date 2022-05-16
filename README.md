@@ -7,6 +7,7 @@ its Nikesh,
 - 📫 How to reach me: nikeshnaik.dev@gmail.com 
 - Blogs: https://nikeshnaik.dev 
 - Linkedin: https://www.linkedin.com/in/nikesh-naik/
+- https://bio.link/nikesh_naik
 
 - ![Profile Visits](https://komarev.com/ghpvc/?username=nikeshnaik)
 
