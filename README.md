@@ -11,9 +11,9 @@
 
 - 🌱 I’m currently learning **AWS, Cloud Native Patterns, Distributed Systems.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/nikeshnaik?tab=repositories](https://github.com/nikeshnaik?tab=repositories)
+- 👨‍💻 All of my side projects are available at [https://github.com/nikeshnaik?tab=repositories](https://github.com/nikeshnaik?tab=repositories)
 
-- 📝 I regularly write articles on [https://nikeshnaik.dev](https://nikeshnaik.dev)
+- 📝 I occasionaly write articles on [https://nikeshnaik.dev](https://nikeshnaik.dev)
 
 - 💬 Ask me about **React, ML, AWS, System Design**
 
