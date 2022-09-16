@@ -6,15 +6,13 @@
 
 <p align="left"> <a href="https://twitter.com/_nikeshn" target="blank"><img src="https://img.shields.io/twitter/follow/_nikeshn?logo=twitter&style=for-the-badge" alt="_nikeshn" /></a> </p>
 
-- 🔭 I’m currently working on [AWS Simple Arch with Terraform](https://github.com/nikeshnaik/AWS-Simple-Arch-with-Terraform)
-
-- 🌱 I’m currently learning **AWS, Cloud Native Patterns, Distributed Systems.**
+- 🌱 I’m currently learning **AWS, Cloud Native Patterns, Distributed Systems wrt Data Science**
 
 - 👨‍💻 All of my side projects are available at [https://github.com/nikeshnaik?tab=repositories](https://github.com/nikeshnaik?tab=repositories)
 
 - 📝 I occasionaly write articles on [https://nikeshnaik.dev](https://nikeshnaik.dev)
 
-- 💬 Ask me about **React, ML, AWS, System Design**
+- 💬 Ask me about **ML, React, AWS, System Design**
 
 - 📫 How to reach me **nikeshnaik.dev@gmail.com**
 
