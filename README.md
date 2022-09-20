@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikeshnaik&label=Profile%20views&color=0e75b6&style=flat" alt="nikeshnaik" /> </p>
 
 
-<p align="left"> <a href="https://twitter.com/_nikeshn" target="blank"><img src="https://img.shields.io/twitter/follow/_nikeshn?logo=twitter&style=for-the-badge" alt="_nikeshn" /></a> </p>
+<p align="left"> <a href="https://twitter.com/NikeshNaik_" target="blank"><img src="https://img.shields.io/twitter/follow/_nikeshn?logo=twitter&style=for-the-badge" alt="_nikeshn" /></a> </p>
 
 - 🌱 I’m currently learning **AWS, Cloud Native Patterns, Distributed Systems wrt Data Science**
 
