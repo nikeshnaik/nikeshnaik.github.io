@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikeshnaik&label=Profile%20views&color=0e75b6&style=flat" alt="nikeshnaik" /> </p>
 
 
-- 🌱 I’m currently learning **AWS, Cloud Native Patterns, Distributed Systems wrt Data Science**
+- 🌱 I’m currently learning **Data Engineering, ML Engineering, Infra wrt Data Science**
 
 - 👨‍💻 All of my side projects are available at [https://github.com/nikeshnaik?tab=repositories](https://github.com/nikeshnaik?tab=repositories)
 
