@@ -4,17 +4,15 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikeshnaik&label=Profile%20views&color=0e75b6&style=flat" alt="nikeshnaik" /> </p>
 
 
-- 🌱 I’m currently learning **Data Engineering, ML Engineering, Infra wrt Data Science**
+- 🌱 I’m currently building end to end system in Data Engineering with added Infrastructure as Code tools. 
 
 - 👨‍💻 All of my side projects are available at [https://github.com/nikeshnaik?tab=repositories](https://github.com/nikeshnaik?tab=repositories)
 
 - 📝 I occasionaly write articles on [https://nikeshnaik.dev](https://nikeshnaik.dev)
 
-- 💬 Ask me about **ML, React, AWS, System Design**
+- 💬 Ask me about **Data Engineering, ML System Design and Software Engineering processes.**
 
 - 📫 How to reach me **nikeshnaik.dev@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ZXHtggPVfAFI1wgKeX4cpKpWbgybeHO2/view?usp=sharing](https://drive.google.com/file/d/1ZXHtggPVfAFI1wgKeX4cpKpWbgybeHO2/view?usp=sharing)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
