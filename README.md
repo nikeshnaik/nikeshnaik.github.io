@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nikesh Naik</h1>
-<h4 align="center">Currently playing around with building whole system with design docs, iteration to find a process to build large architecture, previously was Senior Data Scientist until I got intro'd to System Design. </h4>
+<h4 align="center">Engineer . Tinkerer</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikeshnaik&label=Profile%20views&color=0e75b6&style=flat" alt="nikeshnaik" /> </p>
 
