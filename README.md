@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nikesh Naik</h1>
 <h4 align="center">Engineer . Tinkerer</h4>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nikeshnaik&label=Profile%20views&color=0e75b6&style=flat" alt="nikeshnaik" /> </p>
-
-
 - 🌱 I’m currently building end to end system in Data Engineering with added Infrastructure as Code tools. 
 
 - 👨‍💻 All of my side projects are available at [https://github.com/nikeshnaik?tab=repositories](https://github.com/nikeshnaik?tab=repositories)
