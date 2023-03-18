@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nikesh Naik</h1>
 <h4 align="center">Engineer . Tinkerer</h4>
 
-- 🌱 I’m currently building end to end system in Data Engineering with added Infrastructure as Code tools. 
-
 - 👨‍💻 All of my side projects are available at [https://github.com/nikeshnaik?tab=repositories](https://github.com/nikeshnaik?tab=repositories)
 
 - 📝 I occasionaly write articles on [https://nikeshnaik.dev](https://nikeshnaik.dev)
