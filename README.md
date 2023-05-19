@@ -5,7 +5,7 @@
 
 - 📝 I occasionaly write articles on [https://nikeshnaik.dev](https://nikeshnaik.dev)
 
-- 💬 Ask me about **Data Engineering, ML System Design and Software Engineering processes.**
+- 💬 Ask me about **Data Engineering, ML System Design and Software Engineering.**
 
 - 📫 How to reach me **nikeshnaik.dev@gmail.com**
 
