@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my side projects are available at [https://github.com/nikeshnaik?tab=repositories](https://github.com/nikeshnaik?tab=repositories)
 
-- 📝 I occasionaly write articles on [https://nikeshnaik.dev](https://nikeshnaik.dev)
+- 📝 I occasionaly write articles on https://devnikesh.hashnode.dev/
 
 - 💬 Ask me about **Data Engineering, ML System Design and Software Engineering.**
 
