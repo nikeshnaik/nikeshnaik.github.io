@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nikesh</h1>
-<h4 align="center">Developerrrr</h4>
+<h4 align="center"></h4>
 
 - 👨‍💻 All of my side projects are available at [https://github.com/nikeshnaik?tab=repositories](https://github.com/nikeshnaik?tab=repositories)
 
