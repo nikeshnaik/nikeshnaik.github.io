@@ -1,6 +1,6 @@
 <h4 align="left">About</h4>
 
-- 👨‍💻 All of my side projects are available at [https://github.com/nikeshnaik?tab=repositories](https://github.com/nikeshnaik?tab=repositories)
+- 👨‍💻 All of my experimental side projects are available at [https://github.com/nikeshnaik?tab=repositories](https://github.com/nikeshnaik?tab=repositories)
 
 - 📝 I occasionaly write articles on https://devnikesh.hashnode.dev/
 
@@ -11,10 +11,8 @@
 
 <h4 align="left">Blogs</h4>
 
-- [Fitting Square into a Circle - LLMs](https://devnikesh.hashnode.dev/fitting-square-into-a-circle-llms)
 - [Draft: Following GenAI and writing notes. Blog isn't edited. ⚠️](https://devnikesh.hashnode.dev/draft-following-genai-and-writing-notes-blog-isnt-edited?source=more_articles_bottom_blogs)
 - [Few words on Quantization in LLMs](https://devnikesh.hashnode.dev/few-words-on-quantization-in-llms)
-- [Abstractions !](https://devnikesh.hashnode.dev/abstractions)
 - [Mirroring Production in Local - A Data Science Dev Environment Setup.](https://devnikesh.hashnode.dev/mirroring-production-in-local-a-data-science-dev-environment-setup)
 
 <p align="left">
