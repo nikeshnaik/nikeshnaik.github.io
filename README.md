@@ -11,7 +11,6 @@
 
 <h4 align="left">Blogs</h4>
 
-- [Draft: Following GenAI and writing notes. Blog isn't edited. ⚠️](https://devnikesh.hashnode.dev/draft-following-genai-and-writing-notes-blog-isnt-edited?source=more_articles_bottom_blogs)
 - [Few words on Quantization in LLMs](https://devnikesh.hashnode.dev/few-words-on-quantization-in-llms)
 - [Mirroring Production in Local - A Data Science Dev Environment Setup.](https://devnikesh.hashnode.dev/mirroring-production-in-local-a-data-science-dev-environment-setup)
 
